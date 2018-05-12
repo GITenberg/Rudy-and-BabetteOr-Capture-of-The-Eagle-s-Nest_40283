@@ -1,0 +1,35 @@
+_repo: Rudy-and-BabetteOr-Capture-of-The-Eagle-s-Nest_40283
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stratton, Helen
+    gutenberg_agent_id: '25495'
+    url: http://www.gutenberg.org/2009/agents/25495
+covers:
+- cover_type: archival
+  image_path: 40283-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
+description: ''
+gutenberg_issued: '2012-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: Rudy and Babette -- The fellow-traveler -- The old bachelor's nightcap
+  -- The garden of paradise.
+title: Rudy and Babette; Or, The Capture of the Eagle's Nest
+url: http://www.gutenberg.org/ebooks/40283
